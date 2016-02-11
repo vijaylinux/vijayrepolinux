@@ -10,7 +10,7 @@ $firstname = $_POST["firstname"];
 $address = $_POST["address"];
 $city = $_POST["city"];
 
-
+#php
 
 
 // Create connection
