@@ -1,13 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: /index.html
-    destination: /usr/share/nginx/html/
-   - source: /about.html
-    destination: /usr/share/nginx/html/
-    - source: /contacts.html
-    destination: /usr/share/nginx/html/
-    - source: /contacts.php
+  - source: /
     destination: /usr/share/nginx/html/
 hooks:
   BeforeInstall:
