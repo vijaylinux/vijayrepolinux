@@ -1,4 +1,4 @@
 #!/bin/bash
 yum install -y nginx
-rm -f /usr/share/nginx/html/*
+rm -rf /usr/share/nginx/html/*
 
