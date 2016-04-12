@@ -1,7 +1,7 @@
 <?php
-$servername = "proj-db.c1brr5volumf.us-east-1.rds.amazonaws.com";
-$username = "vijay172";
-$password = "vijay172";
+$servername = "testdb.c1brr5volumf.us-east-1.rds.amazonaws.com";
+$username = "test1234";
+$password = "test1234";
 $dbname = "testdb";
 
 $id = $_POST["id"];
